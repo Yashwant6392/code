@@ -1,0 +1,3 @@
+11	akash	cse	125000
+12	ganesh	aiml	25000
+13	nitesh	medical	500000
